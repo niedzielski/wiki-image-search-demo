@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wiki Image Search</string>
+    <string name="page_full_screen_name">Wiki Image Detail</string>
+
+    <string name="page_service_uri">https://wikipedia.org/w/api.php</string>
+
+    <string name="menu_query_title">Search</string>
+    <string name="menu_query_clear">Clear Search</string>
+    <string name="menu_search_hint">Search!</string>
+
+    <string name="page_image_search_init_query">San Francisco</string>
+</resources>
