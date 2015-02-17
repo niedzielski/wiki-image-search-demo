@@ -1,0 +1,9 @@
+.gitattributes export-ignore
+
+.gitignore export-ignore
+.gradle export-ignore
+/local.properties export-ignore
+/.idea/workspace.xml export-ignore
+/.idea/libraries export-ignore
+.DS_Store export-ignore
+/build export-ignore
